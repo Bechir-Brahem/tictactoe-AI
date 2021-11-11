@@ -5,6 +5,9 @@
 This is a user vs computer TIC TAC TOE. the logic of the computer is achieved using
 minmax algorithm. **In other words the computer will never lose**
 
+[![demo](images/embed.png)](https://www.youtube.com/watch?v=Cbak-EmTzvI)
+
+
 ![init](images/init.png)
 ![move1](images/move1.png)
 ![move2](images/move2.png)
